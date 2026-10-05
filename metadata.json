@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Campaign Hub",
+  "description": "Multi-account WhatsApp marketing automation platform with campaign scheduling, media composer, full-screen previews, and delivery insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
